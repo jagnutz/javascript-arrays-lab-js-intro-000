@@ -8,4 +8,3 @@ function destructivelyAppendKitten(name) {
 function destructivelyPrependKitten(name){
   return kitten.unshift(name)
 }
-
